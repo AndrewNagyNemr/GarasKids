@@ -7,6 +7,7 @@ import ChildProfile from './child-profile/child-profile';
 import {Route} from "react-router-dom";
 import Layout from './Layout/Layout';
 
+import './App.css';
 // import "bootstrap/dist/css/bootstrap.min.css";
 
 class App extends Component {
