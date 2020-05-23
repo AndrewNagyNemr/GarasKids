@@ -1,0 +1,39 @@
+
+.navbar{
+    padding: 0.62rem 1rem;
+}
+.bg-light{
+    background-color: #fefefe !important;
+}
+
+.selected{
+    color: #F6750E !important;
+}
+.navbar-nav {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-nav ul{
+    margin: 0;
+}
+.navbar-nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+    border-right: 1px solid rgb(231, 231, 231);
+}
+.navbar-nav ul li span{
+    display: block;
+}
+.navbar-nav ul li span.icon{
+    text-align: center;
+    font-size: 25px;
+}
+.navbar-nav ul li span.text{
+    text-align: center;
+    font-size: 16px;
+}
+.navbar-nav a {
+    display: block;
+    color: #A5A4BF;
+    padding: 0 8px;
+    text-decoration: none;
+}
