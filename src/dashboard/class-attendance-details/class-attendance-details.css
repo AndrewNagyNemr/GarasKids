@@ -1,0 +1,28 @@
+
+.content-background{
+    border-top: 2px solid #FD9644;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.attendance_bref{
+    width: 80%;
+    margin: auto;
+}
+.attendance_bref .col-md-4{ padding: 0px 10px; }
+.attendance_content{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.total{ background-color: #ffca8373;}
+.present{ background-color: #2bcbba70;}
+.absent{ background-color: #ff72858a; }
+
+.attendance_content h5{
+    margin: 0;
+    padding-top: 5px;
+    font-size: 14px;
+    font-weight: normal;
+    color: #555;
+}
