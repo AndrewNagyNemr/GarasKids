@@ -15,9 +15,11 @@ class ClassesAttendanceDetails extends Component {
     const { classes, absentStudents } = this.props;
     const { staff, attendance } = this.state;
     return (
+      // add div with class content-background to make general styles
       <div className="content-background">
         <h3 className="main_head">Daily Attendance</h3>
 
+        {/* div of general details */}
         <div className="attendance_bref my-3">
           <h4 className="text-center date_head">Today:24 May 2020</h4>
           <div className="row">
